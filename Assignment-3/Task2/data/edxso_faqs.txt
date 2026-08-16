@@ -1,0 +1,29 @@
+Edxso provides students with access to their enrolled courses through the student dashboard.
+
+Students can view their course materials, lessons, and learning resources from the course dashboard.
+
+Assignments must be submitted before the deadline mentioned on the respective course page.
+
+Students can check their assignment status and submission details from their course dashboard.
+
+Students can contact their assigned mentor through the mentoring section of the platform.
+
+Mentoring sessions can be scheduled based on the available time slots shown in the mentoring section.
+
+If a student cannot access their course or dashboard, they should contact the technical support team for assistance.
+
+Students should use the email address registered with their Edxso account when contacting support.
+
+Course-related questions can be discussed with the assigned mentor or submitted through the appropriate support channel.
+
+Students can check their course progress from the student dashboard.
+
+If a student misses an assignment deadline, they should contact their mentor or the relevant course support team to ask about the available options.
+
+Students should keep their account credentials private and should not share their password with anyone.
+
+Technical problems such as login issues, course access problems, or dashboard errors should be reported to the technical support team.
+
+The availability of mentoring sessions depends on the mentor's available time slots.
+
+Students should check the mentoring section regularly for available session slots.
